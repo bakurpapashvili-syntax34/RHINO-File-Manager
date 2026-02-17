@@ -1,4 +1,4 @@
-# RHINO
+# RHINO File Manager
 
 RHINO (suggest of Rapid Explorer & Native Object) is a high-performance file manager built on Python, neon-infused file manager designed for users who demand a Cyberpunk aesthetic and seamless tiling integration.
 
