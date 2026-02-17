@@ -69,5 +69,5 @@ And most of that, It still free, FOREVER!!!!
 
 
 ===============================================================================
-Developed by BakurPapashvili34 in 2026 for the Linux Community.
+Developed by Bakur Papashvili in 2026 for the Linux Community.
 ===============================================================================
