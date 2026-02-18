@@ -62,12 +62,7 @@ STEP 6: Run RHINO
 
 5. IMPORTANT!!!
 
-The is a trial version, the complete version we'll be done with finishing our Distro project, with possibility of upload updates of it.
-The updates it'll be automatic, just use the update command in your terminal "sudo pacman -Syu --noconfirm" to recept it easily.
+The is a Beta version, the complete version we'll be done with finishing our Distro project, with possibility of upload updates of it.
+The updates it'll be automatic in the future, just use the update command in your terminal "sudo pacman -Syu --noconfirm" to recept it easily.
 And most of that, It still free, FOREVER!!!!
-
-
-
-===============================================================================
-Developed by Bakur Papashvili in 2026 for the Linux Community.
-===============================================================================
+So, have enjoy!
