@@ -62,7 +62,7 @@ STEP 6: Run RHINO
 
 5. IMPORTANT!!!
 
-The is a Beta version, the complete version we'll be done with finishing our Distro project, with possibility of upload updates of it.
+This is a Beta version, the complete version we'll be done with finishing our Distro project, with possibility of upload updates of it.
 The updates it'll be automatic in the future, just use the update command in your terminal "sudo pacman -Syu --noconfirm" to recept it easily.
 And most of that, It still free, FOREVER!!!!
 So, have enjoy!
