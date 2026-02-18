@@ -28,8 +28,8 @@ STEP 3: Configure Hyprland
         Add the following block to your ~/.config/hypr/hyprland.conf:
 
         windowrule {
-            name = Reno
-            match:class = Reno
+            name = Rhino
+            match:class = Rhino
             float = true
             border_size = 0
             rounding = 0
